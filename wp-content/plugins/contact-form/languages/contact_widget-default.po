@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Contact Widget\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-27 15:11+0100\n"
+"PO-Revision-Date: 2012-06-27 15:11+0100\n"
+"Last-Translator: \n"
+"Language-Team: Incsub\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: D:\\xampp\\htdocs\\contact-widget\\wp-content\\plugins\\contact-form\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: scripts\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: scripts/ajax.php:42
+msgid "Please enter a subject."
+msgstr ""
+
+#: scripts/ajax.php:46
+msgid "Please enter an e-mail address."
+msgstr ""
+
+#: scripts/ajax.php:50
+msgid "Please enter a valid e-mail address."
+msgstr ""
+
+#: scripts/ajax.php:55
+msgid "Please enter a valid captcha."
+msgstr ""
+
+#: scripts/ajax.php:90
+msgid "Your message has been sent. Thank you!"
+msgstr ""
+
+#: scripts/ajax.php:98
+msgid "Mail not sent"
+msgstr ""
+
+#: contact-form.php:68
+#: contact-form.php:69
+#: contact-form.php:296
+msgid "Contact Form"
+msgstr ""
+
+#: contact-form.php:105
+msgid "Widget title:"
+msgstr ""
+
+#: contact-form.php:109
+msgid "Subject label:"
+msgstr ""
+
+#: contact-form.php:113
+msgid "From label:"
+msgstr ""
+
+#: contact-form.php:117
+msgid "Use generic &quot;from&quot; address:"
+msgstr ""
+
+#: contact-form.php:120
+#: contact-form.php:162
+#: contact-form.php:193
+msgid "Enable"
+msgstr ""
+
+#: contact-form.php:128
+msgid "Use senders email as Reply-To address?"
+msgstr ""
+
+#: contact-form.php:132
+msgid "Add senders email to message body?"
+msgstr ""
+
+#: contact-form.php:136
+msgid "Message label:"
+msgstr ""
+
+#: contact-form.php:140
+msgid "Send Message button text:"
+msgstr ""
+
+#: contact-form.php:144
+msgid "Admin email (optional):"
+msgstr ""
+
+#: contact-form.php:148
+msgid "Success message:"
+msgstr ""
+
+#: contact-form.php:152
+msgid "Text after the form:"
+msgstr ""
+
+#: contact-form.php:156
+msgid "Custom CSS:"
+msgstr ""
+
+#: contact-form.php:160
+msgid "Enable CAPTCHA:"
+msgstr ""
+
+#: contact-form.php:166
+#, php-format
+msgid "To start using ReCaptcha protection, you will first need to <a href=\"%s\">generate a set of API keys here</a>."
+msgstr ""
+
+#: contact-form.php:170
+msgid "After that, paste your new <b>Private</b> and <b>Public</b> keys in the boxes below."
+msgstr ""
+
+#: contact-form.php:172
+msgid "Public key"
+msgstr ""
+
+#: contact-form.php:175
+msgid "Private key"
+msgstr ""
+
+#: contact-form.php:181
+msgid "Refresh CAPTCHA link:"
+msgstr ""
+
+#: contact-form.php:185
+msgid "Refresh CAPTCHA message:"
+msgstr ""
+
+#: contact-form.php:188
+msgid "This is the message that will appear when user rolls over CAPTCHA image"
+msgstr ""
+
+#: contact-form.php:191
+msgid "Compact mode:"
+msgstr ""
+
+#: contact-form.php:212
+#: contact-form.php:311
+msgid "Click to refresh"
+msgstr ""
+
+#: contact-form.php:213
+#: contact-form.php:312
+msgid "Refresh"
+msgstr ""
+
+#: contact-form.php:278
+msgid "Incorrect please try again"
+msgstr ""
+
+#: contact-form.php:297
+msgid "Subject"
+msgstr ""
+
+#: contact-form.php:298
+msgid "From"
+msgstr ""
+
+#: contact-form.php:299
+msgid "Message"
+msgstr ""
+
+#: contact-form.php:300
+msgid "Send Message"
+msgstr ""
+
+#: contact-form.php:302
+msgid "Mail sent!"
+msgstr ""
+
+#: contact-form.php:326
+msgid "Please install the latest version of <a href=\"http://premium.wpmudev.org/project/update-notifications/\" title=\"Download Now &raquo;\">our free Update Notifications plugin</a> which helps you stay up-to-date with the most stable, secure versions of WPMU DEV themes and plugins. <a href=\"http://premium.wpmudev.org/wpmu-dev/update-notifications-plugin-information/\">More information &raquo;</a>"
+msgstr ""
+

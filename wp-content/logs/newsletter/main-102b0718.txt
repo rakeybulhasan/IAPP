@@ -1,0 +1,8 @@
+13-01-2014 12:15:09 - ERROR - 40.9 MB - mail> Could not instantiate mail function.
+13-01-2014 12:17:16 - ERROR - 40.9 MB - mail> Could not instantiate mail function.
+13-01-2014 12:25:57 - ERROR - 40.9 MB - mail> Could not instantiate mail function.
+13-01-2014 12:45:43 - ERROR - 40.9 MB - mail> Could not instantiate mail function.
+13-01-2014 12:46:29 - ERROR - 40.9 MB - mail> Could not instantiate mail function.
+13-01-2014 12:47:16 - ERROR - 39.6 MB - Blocked by transient newsletter_main_engine set 0 seconds ago
+13-01-2014 13:02:08 - ERROR - 39.6 MB - Blocked by transient newsletter_main_engine set 0 seconds ago
+13-01-2014 13:10:24 - ERROR - 40.9 MB - mail> Could not instantiate mail function.

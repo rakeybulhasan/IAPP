@@ -1,0 +1,12 @@
+#login h1 a {
+    background-image: url("../images/bd_logo.png") !important;
+    text-indent: 0!important;
+    background-size: auto;
+    background-position: left top;
+    padding-bottom: 20px;
+    line-height: 26px;
+    text-decoration: none;
+    padding-left: 100px;
+    padding-top: 20px;
+    font-size: 17px;
+}

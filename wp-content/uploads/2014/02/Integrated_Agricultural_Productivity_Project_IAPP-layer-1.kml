@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2">
+<Document>
+<description><![CDATA[powered by <a href="http://www.wordpress.org">WordPress</a> &amp; <a href="http://www.mapsmarker.com">MapsMarker.com</a>]]></description>
+<open>1</open>
+<Style id="flag-export"><IconStyle><Icon><href>http://newweb.iapp.gov.bd/wp-content/uploads/leaflet-maps-marker-icons/flag-export.png</href></Icon></IconStyle></Style>
+<Style id="default"><IconStyle><Icon><href>http://newweb.iapp.gov.bd/wp-content/plugins/leaflet-maps-marker-pro/leaflet-dist/images/marker.png</href></Icon></IconStyle></Style>
+<Folder>
+<name>Project Area</name>
+<Placemark id="marker-1">
+<styleUrl>#flag-export</styleUrl>
+<name>Lalmonirhat</name>
+<TimeStamp><when>2013-11-27T07:11:50+00:00</when></TimeStamp>
+<atom:author><atom:name>admin</atom:name></atom:author>
+<atom:link rel="related" href="http://newweb.iapp.gov.bd" />
+<description><![CDATA[]]></description>
+<address><![CDATA[Lalmonirhat, Rangpur Division, Bangladesh]]></address>
+<Point>
+<coordinates>89.450580,25.916198</coordinates>
+</Point>
+</Placemark>
+<Placemark id="marker-2">
+<styleUrl>#flag-export</styleUrl>
+<name>Kurigram</name>
+<TimeStamp><when>2013-11-27T07:11:55+00:00</when></TimeStamp>
+<atom:author><atom:name>admin</atom:name></atom:author>
+<atom:link rel="related" href="http://newweb.iapp.gov.bd" />
+<description><![CDATA[<span class="GINGER_SOFTWARE_mark" id="4b320fb6-1756-4557-a52b-1d6afba44659">Kurigram</span> District]]></description>
+<address><![CDATA[Kurigram, Rangpur Division, Bangladesh]]></address>
+<Point>
+<coordinates>89.648698,25.810346</coordinates>
+</Point>
+</Placemark>
+<Placemark id="marker-3">
+<styleUrl>#flag-export</styleUrl>
+<name>Nilphamari</name>
+<TimeStamp><when>2013-11-27T07:11:58+00:00</when></TimeStamp>
+<atom:author><atom:name>admin</atom:name></atom:author>
+<atom:link rel="related" href="http://newweb.iapp.gov.bd" />
+<description><![CDATA[Nilphamari District]]></description>
+<address><![CDATA[Nilphamari, Rangpur Division, Bangladesh]]></address>
+<Point>
+<coordinates>88.903060,25.989962</coordinates>
+</Point>
+</Placemark>
+<Placemark id="marker-4">
+<styleUrl>#default</styleUrl>
+<name>Barisal</name>
+<TimeStamp><when>2013-11-27T07:11:26+00:00</when></TimeStamp>
+<atom:author><atom:name>admin</atom:name></atom:author>
+<atom:link rel="related" href="http://newweb.iapp.gov.bd" />
+<description><![CDATA[]]></description>
+<address><![CDATA[Barisal, Barisal Division, Bangladesh]]></address>
+<Point>
+<coordinates>90.366667,22.700000</coordinates>
+</Point>
+</Placemark>
+<Placemark id="marker-5">
+<styleUrl>#default</styleUrl>
+<name>Jhalokathi</name>
+<TimeStamp><when>2013-11-27T07:11:10+00:00</when></TimeStamp>
+<atom:author><atom:name>admin</atom:name></atom:author>
+<atom:link rel="related" href="http://newweb.iapp.gov.bd" />
+<description><![CDATA[]]></description>
+<address><![CDATA[Jhalokati, Barisal Division, Bangladesh]]></address>
+<Point>
+<coordinates>90.198680,22.640601</coordinates>
+</Point>
+</Placemark>
+<Placemark id="marker-6">
+<styleUrl>#default</styleUrl>
+<name>Patuakhali</name>
+<TimeStamp><when>2013-11-27T07:11:07+00:00</when></TimeStamp>
+<atom:author><atom:name>admin</atom:name></atom:author>
+<atom:link rel="related" href="http://newweb.iapp.gov.bd" />
+<description><![CDATA[]]></description>
+<address><![CDATA[Patuakhali, Barisal Division, Bangladesh]]></address>
+<Point>
+<coordinates>90.329590,22.350076</coordinates>
+</Point>
+</Placemark>
+<Placemark id="marker-7">
+<styleUrl>#default</styleUrl>
+<name>Barguna</name>
+<TimeStamp><when>2013-11-27T07:11:51+00:00</when></TimeStamp>
+<atom:author><atom:name>admin</atom:name></atom:author>
+<atom:link rel="related" href="http://newweb.iapp.gov.bd" />
+<description><![CDATA[]]></description>
+<address><![CDATA[Barguna, Barisal Division, Bangladesh]]></address>
+<Point>
+<coordinates>90.118790,22.159427</coordinates>
+</Point>
+</Placemark>
+<Placemark id="marker-8">
+<styleUrl>#flag-export</styleUrl>
+<name>Rangpur</name>
+<TimeStamp><when>2013-11-27T07:11:12+00:00</when></TimeStamp>
+<atom:author><atom:name>admin</atom:name></atom:author>
+<atom:link rel="related" href="http://newweb.iapp.gov.bd" />
+<description><![CDATA[Rangpur District]]></description>
+<address><![CDATA[Rangpur, Rangpur Division, Bangladesh]]></address>
+<Point>
+<coordinates>89.255898,25.750351</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<ScreenOverlay>
+<name><![CDATA[powered by WordPress & MapsMarker.com]]></name>
+<Icon>
+<href>http://newweb.iapp.gov.bd/wp-content/plugins/leaflet-maps-marker-pro/inc/img/kml-overlay-powered-by.png</href>
+</Icon>
+<overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+<screenXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+<size x="0" y="0" xunits="fraction" yunits="fraction"/>
+</ScreenOverlay>
+</Document>
+</kml>

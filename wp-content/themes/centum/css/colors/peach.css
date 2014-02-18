@@ -1,0 +1,49 @@
+/* =================================================================== */
+/* Peach #fcab55
+====================================================================== */
+
+#navigation ul li a:hover,
+#navigation ul li:hover > a,
+#bolded-line,
+.button.gray:hover,
+.button.light:hover,
+.price_slider_wrapper .ui-slider-horizontal .ui-slider-range,
+.button.color,
+.onsale,
+input[type="submit"] {
+    background: #fcab55;
+}
+#navigation > div > ul > li.current-menu-item > a,
+.pricing-table .color-3 h3, .color-3 .sign-up,
+.flex-direction-nav .flex-prev:hover,
+.flex-direction-nav .flex-next:hover,
+.tp-leftarrow:hover,
+.tp-rightarrow:hover,
+#scroll-top-top a,
+.quantity .plus:hover,#content .quantity .plus:hover,.quantity .minus:hover,#content .quantity .minus:hover,
+.post-icon {
+    background-color:#fcab55;
+}
+
+.mr-rotato-prev:hover,
+.mr-rotato-next:hover,
+li.current,
+.tags a:hover {
+    background-color: #fcab55;
+    border-color: #fcab55;
+}
+
+#filters a:hover,
+.selected,
+.wp-pagenavi .current,
+.pagination .current,
+#portfolio-navi a:hover {
+    background-color: #fcab55 !important;
+    border: 1px solid #fcab55 !important;
+}
+
+.pricing-table .color-3 h4 {
+    background-color: #fcab55 !important;
+    opacity:0.8
+}
+

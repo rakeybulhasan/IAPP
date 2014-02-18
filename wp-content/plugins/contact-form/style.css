@@ -1,0 +1,26 @@
+#wp-contact-form input, #wp-contact-form textarea		   		 		    	  	
+{
+	padding: 5px;
+	width: 95%;
+}
+#wp-contact-form label
+{
+	display: block;
+	font-weight: bold;
+}
+div#cw-recaptcha_widget
+{
+	width: 210px;
+}
+div#cw-recaptcha_widget #recaptcha_image img {
+height:46px;
+width:210px;
+float: left;
+}
+
+.cw_inactive {
+	color: #ccc;
+}
+
+
+/* 203378-1370159247 */

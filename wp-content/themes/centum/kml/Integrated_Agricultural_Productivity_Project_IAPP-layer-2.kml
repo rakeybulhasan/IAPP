@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2">
+<Document>
+<description><![CDATA[powered by <a href="http://www.wordpress.org">WordPress</a> &amp; <a href="http://www.mapsmarker.com">MapsMarker.com</a>]]></description>
+<open>1</open>
+<Style id="default"><IconStyle><Icon><href>http://newweb.iapp.gov.bd/wp-content/plugins/leaflet-maps-marker-pro/leaflet-dist/images/marker.png</href></Icon></IconStyle></Style>
+<Folder>
+<name>Offices</name>
+<Placemark id="marker-9">
+<styleUrl>#default</styleUrl>
+<name>PMU</name>
+<TimeStamp><when>2013-12-09T07:12:02+00:00</when></TimeStamp>
+<atom:author><atom:name>admin</atom:name></atom:author>
+<atom:link rel="related" href="http://newweb.iapp.gov.bd" />
+<description><![CDATA[<strong>Project Management Unit</strong><br/><span class="GINGER_SOFTWARE_mark" id="8dadb627-a9f3-44e9-ad48-26419926f7e7">Sech</span> Bhaban (Level 6), 22 Manik Mia Avenue<br/>Sher-E-Bangla Nagar, Dhaka 1207, Bangladesh<br/>Tel: +8802-9103924<br/>Fax: +8802-9113101<br/>Email: pmu.iapp@gmail.com]]></description>
+<address><![CDATA[Manik Mia Avenue, Dhaka, Bangladesh]]></address>
+<Point>
+<coordinates>90.378830,23.757990</coordinates>
+</Point>
+</Placemark>
+<Placemark id="marker-10">
+<styleUrl>#default</styleUrl>
+<name>RPIU Rangpur</name>
+<TimeStamp><when>2013-12-09T07:12:32+00:00</when></TimeStamp>
+<atom:author><atom:name>admin</atom:name></atom:author>
+<atom:link rel="related" href="http://newweb.iapp.gov.bd" />
+<description><![CDATA[<strong>Regional Project Implementation Unit, Rangpur</strong><br/>R K Road, Islambag Sur o Chando Goli (In front of Janata Clinic)<br/>House # 71 (3rd floor), Road # 1/4<br/>Rangpur<br/>Email: rpiur@iapp.gov.bd]]></description>
+<address><![CDATA[Rangpur, Rangpur Division, Bangladesh]]></address>
+<Point>
+<coordinates>89.231032,25.751952</coordinates>
+</Point>
+</Placemark>
+<Placemark id="marker-11">
+<styleUrl>#default</styleUrl>
+<name>RPIU Barisal</name>
+<TimeStamp><when>2013-12-09T07:12:57+00:00</when></TimeStamp>
+<atom:author><atom:name>admin</atom:name></atom:author>
+<atom:link rel="related" href="http://newweb.iapp.gov.bd" />
+<description><![CDATA[<strong>Regional Project Implementation Unit, Barisal</strong><br/><span class="GINGER_SOFTWARE_mark" id="2aa614f5-9ded-4d60-b25a-4fe731f17161">Nirala</span> Complex (3rd floor)<br/>919 Amir Kuthi Lane, Alekanda Road<br/>Barisal<br/>Email: rpiub@iapp.gov.bd]]></description>
+<address><![CDATA[ Barisal, Barisal Division, Bangladesh]]></address>
+<Point>
+<coordinates>90.365338,22.703415</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<ScreenOverlay>
+<name><![CDATA[powered by WordPress & MapsMarker.com]]></name>
+<Icon>
+<href>http://newweb.iapp.gov.bd/wp-content/plugins/leaflet-maps-marker-pro/inc/img/kml-overlay-powered-by.png</href>
+</Icon>
+<overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+<screenXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+<size x="0" y="0" xunits="fraction" yunits="fraction"/>
+</ScreenOverlay>
+</Document>
+</kml>
